@@ -1,0 +1,14 @@
+layout_spectrum: 0.8899006296414882
+typography_spectrum: 0.8369695215951651
+color:
+  brandStrength: 0.6307161669246852
+  lightness: 0.8736385817173868
+  saturation: 0.6630799691192806
+  rhythmicContrast: 0.40468206512741745
+  brandColors:
+    - '#FCFFF5'
+    - '#D1DBBD'
+    - '#91AA9D'
+    - '#3E606F'
+    - '#193441'
+name: ux
